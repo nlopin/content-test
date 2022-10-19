@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Устанавливает необходимые ярлыки
-        uses: doka-guide/doka-labeler@2f572b781de7b1a13edb75caf8436588969046ca
+        uses: doka-guide/doka-labeler@8dda0017d2c7604a8acf80800232c5e6e2e89034
         with:
           token: "${{ secrets.GITHUB_TOKEN }}"
           strategy: append
