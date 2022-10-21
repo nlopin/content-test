@@ -74,12 +74,12 @@ a11y:
 'демо':
   files:
     modified:
-      - css/**/demos/**/*.html
-      - html/**/demos/**/*.html
-      - js/**/demos/**/*.html
-      - tools/**/demos/**/*.html
-      - a11y/**/demos/**/*.html
-      - recipes/**/demos/**/*.html
+    - css/**/demos/**/*.html
+    - html/**/demos/**/*.html
+    - js/**/demos/**/*.html
+    - tools/**/demos/**/*.html
+    - a11y/**/demos/**/*.html
+    - recipes/**/demos/**/*.html
   assignee:
     - skorobaeus
 'дока':
